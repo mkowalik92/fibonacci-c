@@ -1,2 +1,3 @@
-# fibonacci-c
-fibonacci-c
+To run use:
+
+   ./fib INT_VALUE
